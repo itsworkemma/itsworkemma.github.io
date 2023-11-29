@@ -53,11 +53,11 @@ Maybe projects like this could open up that sea of data to people with a casual 
 
 * For learning web scraping [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 * [Web Scraping and PostgreSQL (billyfung.com)](https://billyfung.com/posts/2016-01-28-postgres-scraping/)
-* On pgvector [PostgreSQL Extensions: Turning PostgreSQL Into a Vector Database With pgvector | Timescale](https://www.timescale.com/learn/postgresql-extensions-pgvector)
+* On pgvector [PostgreSQL Extensions: Turning PostgreSQL Into a Vector Database With pgvector Timescale](https://www.timescale.com/learn/postgresql-extensions-pgvector)
 * Learnt that "a chatbot that talks to your things" is officially known as [Retrieval-augmented generation](https://python.langchain.com/docs/use_cases/question_answering/)
 * [BugBytes on YouTube / Blog](https://bugbytes.io/posts/retrieval-augmented-generation-with-langchain-and-pgvector/)
 * Pgvector python examples [pgvector-python/examples/openai_embeddings.py at master · pgvector/pgvector-python (github.com)](https://github.com/pgvector/pgvector-python/blob/master/examples/openai_embeddings.py)
-* Another tutorial I saved and highlighted so it must have helped me understand something I was stuck on! [Postgres Vector Database with pgvector + bit.io | The Inner Join](https://innerjoin.bit.io/vector-similarity-search-in-postgres-with-bit-io-and-pgvector-c58ac34f408b)
+* Another tutorial I saved and highlighted so it must have helped me understand something I was stuck on! [Postgres Vector Database with pgvector + bit.io The Inner Join](https://innerjoin.bit.io/vector-similarity-search-in-postgres-with-bit-io-and-pgvector-c58ac34f408b)
 * Plus of course the reference docs for [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 , [pgvector](https://github.com/pgvector/pgvector), [psycopg2](https://www.psycopg.org/docs/), [langchain](https://python.langchain.com/docs/get_started/introduction), [langchain API](https://api.python.langchain.com/en/stable/api_reference.html#), [OpenAI API](https://platform.openai.com/docs/api-reference), [Streamlit](https://docs.streamlit.io/library/get-started/main-concepts)
 * And [Local Digital](https://www.localdigital.gov.uk/commitments/) where I nicked all the starting data from 
