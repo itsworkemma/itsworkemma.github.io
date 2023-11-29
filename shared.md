@@ -12,6 +12,8 @@ A chatbot type interface linked to all the shared information could enable users
 
 [Video here](https://youtu.be/3wNJBZtkkyI?si=HZjfdkTMI4Mmrpi5)
 
+The snazzy music was added because I forogt to mute the screen recording! 
+
 * To start - scraped the declaration project data and funded project data from Local Digital using BeautifulSoup
 * Put it in a Postgres database using psycopg2. Added vector support with PGVector
 * Used OpenAI API to generate and store vector embeddings against the data
@@ -20,6 +22,8 @@ A chatbot type interface linked to all the shared information could enable users
 * Used Streamlit to bung a nice interface on it
 
 I think this is the second thing I have ever written in Python? And the first time doing any sort of database writing, web scraping, LLM meddling... so treat it as a sketch of a thought rather than the beginning of a real thing!
+
+I find I learn things better when I work on a **Real Thing I Thought Of** rather than reading theory or working on a generic exercise. Then it sticks in my mind and helps me think of other applications for the tech.
 
 ### Other thoughts
 
@@ -43,7 +47,9 @@ Maybe projects like this could open up that sea of data to people with a casual 
   * Return case study date in response
 * Interface - is streamlit the best option?
 * Actually publish it somewhere that a real person could try it...
+* Or at least get the demo code into a less embarassing state and make the repo public 
 
 ### Shoutout to some of the resources I used to make this
 
-* TO ADD!
+* ADD SOME LINKS HERE
+* Big up stack overflow and youtube
