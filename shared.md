@@ -38,7 +38,7 @@ Maybe projects like this could open up that sea of data to people with a casual 
   * More case studies on other sites
   * PDF business cases
 * Find out why its so slow
-* See if it can use [GPT-4](https://platform.openai.com/docs/models/models) instead of GPT-3.5 (cheaper) 
+* Any difference using [GPT-4](https://platform.openai.com/docs/models/models) instead of GPT-3.5?
 * Could the database structure be better? Right now its dumped in one table...
 * Adjust the prompts
   * Any use extracting key terms from the question input rather than processing it as is?
