@@ -2,7 +2,7 @@
 
 I thought of this after the Local Digital Future Councils Roundtable event in London Oct 2023. One of the groups I was in got onto discussing how we share and use learning as Councils, and whether there should be another place that people could share the details of projects they have worked / are working on for others to learn from.
 
-Waiting at the station I got thinking about how there are so many places for people to share what they are doing, organisations like Socitm and LOTI that share information so there's lots out there but people don't seem to be using it.
+Waiting at the station I got thinking about how there are so many places for people to share what they are doing, organisations like Socitm and LOTI that share information so there's lots out there but people don't seem to be using it. Not that they can't be bothered, just its a lot to find what you need in a format you can use.
 
 Maybe the problem is in the using not the sharing...?
 
